@@ -1,6 +1,6 @@
 <img src="assets/background.png" alt="profile hero banner" width="100%" height="auto"/>
 
-# Hi, this is Khumoyun! <img src="assets\wave.gif" width="30px">
+# Hi, this is Khumoyun! <img src="assets\wave.gif" width="10px">
 
 > _I'm an aspiring Front End Engineer._
 
